@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-Wall -O3 -ftree-vectorize -ffast-math -fno-cx-limited-range
+CFLAGS=-Wall
 
 matrix_multiply : matrix_multiply.c
 	$(CC) -o $@ $< $(CFLAGS)
