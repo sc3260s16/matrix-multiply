@@ -34,7 +34,7 @@ int main(int argc, char ** argv)
 
    // TODO: call function to perform matrix multiplication ( matrix_B = matrix_A * matrix_A )
    
-   // TODO: call function to write results (matrix_out) to stdout
+   // TODO: call function to write results (matrix_B) to stdout
 
    return 0;
 
