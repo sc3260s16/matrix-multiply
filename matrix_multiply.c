@@ -36,6 +36,8 @@ int main(int argc, char ** argv)
    
    // TODO: call function to write results (matrix_B) to stdout
 
+   // TODO: free space allocated for matrix_A and matrix_B
+
    return 0;
 
 }
